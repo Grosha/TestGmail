@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="147572" started-at="2015-06-18T07:40:36Z" finished-at="2015-06-18T07:43:04Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="147572" started-at="2015-06-18T07:40:36Z" finished-at="2015-06-18T07:43:04Z">
+      <class name="LoginOnGmailTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:LoginOnGmailTest@6537cf78]" name="setUp" is-config="true" duration-ms="14998" started-at="2015-06-18T10:42:22Z" finished-at="2015-06-18T10:42:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testing()[pri:0, instance:LoginOnGmailTest@6537cf78]" name="testing" duration-ms="25612" started-at="2015-06-18T10:42:37Z" finished-at="2015-06-18T10:43:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+        <test-method status="PASS" signature="setDown()[pri:0, instance:LoginOnGmailTest@6537cf78]" name="setDown" is-config="true" duration-ms="1063" started-at="2015-06-18T10:43:03Z" finished-at="2015-06-18T10:43:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDown -->
+      </class> <!-- LoginOnGmailTest -->
+      <class name="CreatFolderInGoogleDriveTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:CreatFolderInGoogleDriveTest@617c74e5]" name="setUp" is-config="true" duration-ms="16794" started-at="2015-06-18T10:40:36Z" finished-at="2015-06-18T10:40:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testing()[pri:0, instance:CreatFolderInGoogleDriveTest@617c74e5]" name="testing" duration-ms="42034" started-at="2015-06-18T10:40:53Z" finished-at="2015-06-18T10:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+        <test-method status="PASS" signature="setDown()[pri:0, instance:CreatFolderInGoogleDriveTest@617c74e5]" name="setDown" is-config="true" duration-ms="3965" started-at="2015-06-18T10:41:35Z" finished-at="2015-06-18T10:41:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDown -->
+      </class> <!-- CreatFolderInGoogleDriveTest -->
+      <class name="LogInAndLogOutTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:LogInAndLogOutTest@614c5515]" name="setUp" is-config="true" duration-ms="14555" started-at="2015-06-18T10:41:39Z" finished-at="2015-06-18T10:41:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testing()[pri:0, instance:LogInAndLogOutTest@614c5515]" name="testing" duration-ms="25048" started-at="2015-06-18T10:41:53Z" finished-at="2015-06-18T10:42:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+        <test-method status="PASS" signature="setDown()[pri:0, instance:LogInAndLogOutTest@614c5515]" name="setDown" is-config="true" duration-ms="3487" started-at="2015-06-18T10:42:18Z" finished-at="2015-06-18T10:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDown -->
+      </class> <!-- LogInAndLogOutTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
